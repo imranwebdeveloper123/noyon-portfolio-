@@ -1,0 +1,54 @@
+
+@media only screen and (max-width: 768px) {
+    .hero-section .hero-section-image img{
+        padding-left:0px;
+    
+    }
+    .hero-content-section{
+        padding-left:50px !important;
+    }
+    .container-custom{
+        display: block;
+    }
+    .progress-bar-custom-block{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        padding:30px 0px;
+     
+    }
+    .nav-custom{
+        background-color: #2ca46d;
+        
+    }
+   
+.nav-custom li a:hover,
+.nav-custom .menu-btn:hover {
+   color: white;
+}
+.menu-custom li a{
+    color: white;
+}
+    .nav-custom .logo {
+       
+        padding: 2px 0px;
+       
+    }
+    .progress-custom{
+        margin: auto;
+    }
+    input[type=text],input[type=email],
+input[type=subject],input[type=text]{
+  
+    padding: 15px 72px;
+  
+    
+
+}
+textarea{
+   width: 950%;
+   padding: 10px;
+   border-radius: 30px;
+   
+}
+  }
